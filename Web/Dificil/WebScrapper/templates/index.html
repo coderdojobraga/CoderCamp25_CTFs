@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.png') }}" type="image/x-icon">
+    <title>Capture The Flag</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffb703;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        section {
+            margin-top: 20px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <header style="padding-right: 30px;">
+        <img src="{{ url_for('static', filename='header.png') }}" style="width: 500px; height: auto;">
+    </header>
+    <div class="container">
+        <section>
+            <h2 style="color: #249cbb;">Sobre o Desafio</h2>
+            <p>Esta não é a única página que este site contém!</p>
+            <p>Para encontrares as outras páginas, tens de criar um script que as valide.</p>
+            <p>Podes aceder a uma lista de possibilidades <a href="https://bernardolobo06.github.io/webCoderCamp25/Dificil/WebScrapper/subdiretorias.txt">aqui</a>.</p>
+            <p>Boa sorte!</p>
+        </section>
+    </div>
+</body>
+</html>
