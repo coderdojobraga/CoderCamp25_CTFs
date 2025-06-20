@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.png') }}" type="image/x-icon">
+    <title>Capture The Flag</title>
+    <style>
+        header {
+            padding-right: 30px;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffb703;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        form {
+            justify-content: center; /* center the image horizontally */
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        input[type="text"], input[type="password"], button {
+            width: 100%;
+            margin-bottom: 10px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #249cbb;
+            color: #fff;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="{{ url_for('static', filename='header.png') }}" style="width: 500px; height: auto;">
+    </header>
+
+    <form id="loginForm">
+        <h2 style="color: #249cbb;">Login</h2>
+        <input type="text" id="username" placeholder="User">
+        <input type="password" id="password" placeholder="Senha">
+        <button type="button" onclick="authenticate()">Login</button>
+    </form>
+
+    <script>
+        function authenticate() {
+            var utilizador = document.getElementById('username').value;
+            var password = document.getElementById('password').value;
+            
+            if (utilizador == 'ninja' && password === 'coderdojo25') {
+                fetch('/segredo')
+                .then(response => response.text())
+                .then(data => alert('Login bem-sucedido!\nFlag: ' + data))
+                .then(data => console.log(data))
+                .catch(error => console.error('Erro:', error));
+            } else {
+                alert('Credenciais inválidas!');
+            }
+        }
+    </script>
+</body>
+</html>
