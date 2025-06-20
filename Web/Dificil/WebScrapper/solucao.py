@@ -13,5 +13,5 @@ def verificar_subdiretorias(arquivo):
                 print(f"A subdiretoria '/{subdiretoria}' existe.")
                 
 if __name__ == "__main__":
-    arquivo_subdiretorias = "/mnt/c/Users/marco/Desktop/webCoderCamp25/Dificil/subdiretorias.txt"
+    arquivo_subdiretorias = "/mnt/c/Users/marco/Desktop/webCoderCamp25/Dificil/WebScrapper/subdiretorias.txt"
     verificar_subdiretorias(arquivo_subdiretorias)
