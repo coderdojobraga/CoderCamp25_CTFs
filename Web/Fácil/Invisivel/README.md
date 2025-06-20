@@ -6,3 +6,7 @@ Web - Fácil
     - Podem chegar a resposta explorando o site até encontrarem o sinalizador de texto no rato e selecionarem o texto que aparecerá, ou abrindo o código-fonte do website
 
 Flag: CD25{Descobri o texto invisível!!!}
+
+**Link do website**: https://bernardolobo06.github.io/webCoderCamp25/Facil/Invisivel-Select/
+
+**Link dos CTF's (Web)**: https://bernardolobo06.github.io/webCoderCamp25/
