@@ -64,7 +64,7 @@ h2 {
 /* global style ended above */
 /* header navigation menu */
 header {
-  background-color: #ffb404;
+  background-color: #ffb703;
 }
 
 nav {
@@ -108,8 +108,6 @@ nav .navigation-container ul li a {
   text-decoration: none;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 1rem;
-  font-style: italic;
   color: #ffffff;
   padding: 10px 5px;
   transition: all 0.9s ease-out;
@@ -117,13 +115,13 @@ nav .navigation-container ul li a {
 
 @media (min-width: 768px) {
   nav .navigation-container ul li a {
-    font-size: 1.125rem;
+    font-size: 0.825rem;
     padding: 30px 15px;
   }
 }
 
 nav .navigation-container ul li a:hover {
-  background-color: #ffb404;
+  background-color: #ffb703;
   color: #219ebc;
 }
 

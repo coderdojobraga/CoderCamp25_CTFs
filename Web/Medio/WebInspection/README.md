@@ -2,8 +2,6 @@
 
 Os ninjas devem inspecionar um website à procura de uma Cifra de César com a cifra original.
 
-**Link do website**: https://bernardolobo06.github.io/webinspection/
-
 **Cifra alterada**: TU25{nvsvogcfzkrkzfe-01} (cifrado com n = 17)
 
 **Cifra original**: CD25{webexploitation-01}
