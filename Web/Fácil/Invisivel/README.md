@@ -12,7 +12,7 @@ Podem chegar à resposta:
 
 **Flag**: CD25{Descobri o texto invisível!!!}
 
-**Localização**: about.html linhas 21-23
+**Localização**: Invisivel.html linhas 21-23
 ```
 <h1> 
           CD25{Descobri o texto invisível!!!}

@@ -9,7 +9,7 @@ A flag é um texto não selecionável (em parte) invisivel no body.
 
 **Flag**: CD25{invisivel-inspecionado}
 
-**Localização**: about.html linhas 27-29
+**Localização**: index.html linhas 27-29
 ```
 <h1 class="inselecionavel">
     CD25{<span class="invisivel">invisivel-inspecionado</span>}

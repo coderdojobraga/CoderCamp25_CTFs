@@ -1,30 +1,17 @@
-## Web - Médio
+# Autenticação (Client Side)
 
-Neste desafio temos de descobrir o segredo escondido na página web.
-(Nota: nenhum dos ficheiros desta pasta é dado ao ninja, são ficheiros de configuração)
+Os ninjas devem encontrar as credenciais de acesso para se autenticarem e encontrarem a flag.
+A autenticação é feita pelo cliente (no frontend).
 
-- O ninja entra no link '[http://93.108.101.115:60000/](http://93.108.101.115:60000/)'.
-- O mentor explica como é feita uma página web se necessário, e refere que o login às vezes pode ser mal implementado.
-- O objetivo é que o ninja consiga entender onde é feito o login e como é que é feito (as credenciais saltam logo à vista)
+**Link do website**: http://www.marcoslobo.xyz:8000
 
-#### Solução
+**Link dos CTF's (Web)**: https://bernardolobo06.github.io/webCoderCamp25/
 
-As credenciais estão escritas no script de javascript que está no código fonte
+**Solução**: As credenciais estão escritas no script de javascript que está no código fonte.
 
-**Segredo:** "a ter uma das melhores"
+**Flag**: CD25{webserver-login}
 
-# Not Selectable Flag
-
-Os ninjas devem inspecionar um website à procura da Flag.
-A flag é um texto (em parte) invisivel no body. 
-
-**Link do website**:
-
-**Flag**: CD25{invisivel-inspecionado}
-
-**Localização**: about.html linhas 27-29
+**Localização**: index.html linha 61
 ```
-<h1 class="inselecionavel">
-    CD25{<span class="invisivel">invisivel-inspecionado</span>}
-</h1>
+if (utilizador == 'ninja' && password === 'coderdojo25')
 ```
