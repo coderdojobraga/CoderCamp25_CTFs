@@ -10,7 +10,7 @@ Os ninjas devem inspecionar um website à procura de uma Cifra de César com a c
 
 **Solução**: Cifra de César com deslocamento 17
 
-**Localização**: about.html linha 44
+**Localização**: about.html linha 32
 ```
 <section class="about" notify_true="cc17;TU25{nvsvogcfzkrkzfe-01}">
 ```
