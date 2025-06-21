@@ -8,7 +8,7 @@ def adivinha_password():
             if resultado.stdout[0] != "F":
                 print(f"{resultado.stdout.strip()}")
             else: 
-                print("Password: " + password)
+                print("\nA password " + password + " está correta!\n")
                 break
         
 adivinha_password()
