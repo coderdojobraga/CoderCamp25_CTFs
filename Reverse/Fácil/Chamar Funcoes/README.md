@@ -1,9 +1,11 @@
-## Engenharia Reversa - Fácil
+# Chamada de Funções
 
-Neste desafio temos de descobrir como retornar o segredo.
+Neste desafio os ninjas devem alterar o código, de modo que seja chamada a função 'retorna_flag'.
 
-- É dado ao ninja o ficheiro 'maior_numero\.py' e diz-se para correr o programa para ver o que faz.
-- Após exploração do programa, o ninja analisa o código.
-- O objetivo é verificar que pode retornar o segredo simplesmente substituindo a função atual que está a ser chamada pela correta.
+- É dado ao ninja o ficheiro 'main\.py'.
+- O ninja deve correr o programa para ver o que faz e analisar o código.
+- O objetivo é verificar que pode retornar a flag substituindo a função a ser chamada.
 
-**Segredo:** "sessões de sempre"
+**Flag**: CD25{trocar_a_funcao_executada}
+
+**Solução**: Substituir 'escolhe_maior()' por 'retorna_flag()' na linha 35
