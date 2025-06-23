@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <title>Login</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 100px;
+    }
+    .form-group {
+      margin: 10px 0;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+    }
+    input[type="text"], input[type="password"] {
+      width: 200px;
+      padding: 8px;
+      box-sizing: border-box;
+      font-size: 16px;
+    }
+    .show-password {
+      margin-top: 5px;
+      font-size: 14px;
+      user-select: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    input[type="checkbox"] {
+      cursor: pointer;
+    }
+    .flag {
+      margin-top: 20px;
+      font-weight: bold;
+      color: green;
+    }
+  </style>
+</head>
+<body>
+  <h1>Login</h1>
+  <p>Insira o nome de utilizador e a senha:</p>
+
+  <div class="form-group">
+    <input type="text" id="username" placeholder="Utilizador" />
+  </div>
+
+  <div class="form-group">
+    <input type="password" id="password" placeholder="Senha" />
+    <label class="show-password">
+      <input type="checkbox" id="togglePassword" />
+      Mostrar
+    </label>
+  </div>
+
+  <button onclick="check()">Entrar</button><br />
+
+  <div class="flag" id="flagOutput"></div>
+
+  <script>
+    function decodeBase64(s) {
+      return decodeURIComponent(
+        atob(s)
+          .split("")
+          .map(function (c) {
+            return "%" + ("00" + c.charCodeAt(0).toString(16)).slice(-2);
+          })
+          .join("")
+      );
+    }
+
+    const encodedUsername = "cGVkcm8xMjM=";
+    const encodedPassword = "TWFzc2FDb21BdHVt";
+
+    document.getElementById("togglePassword").addEventListener("change", function () {
+      const passwordInput = document.getElementById("password");
+      passwordInput.type = this.checked ? "text" : "password";
+    });
+
+    function check() {
+      const u = document.getElementById("username").value;
+      const p = document.getElementById("password").value;
+
+      const cu = decodeBase64(encodedUsername);
+      const cp = decodeBase64(encodedPassword);
+
+      if (u === cu && p === cp) {
+        const hidden = "Q0QyNXtwZWRyb0FycnVtYU9RdWFydG99";
+        document.getElementById("flagOutput").innerText =
+          "🎉 " + decodeBase64(hidden);
+      } else {
+        document.getElementById("flagOutput").innerText =
+          "❌ Utilizador ou senha incorretos.";
+      }
+    }
+  </script>
+</body>
+</html>
