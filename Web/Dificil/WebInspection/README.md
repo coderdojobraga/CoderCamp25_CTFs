@@ -2,7 +2,7 @@
 
 Os ninjas devem inspecionar um website à procura de uma Cifra de César com a cifra original.
 
-**Link do website**: https://bernardolobo06.github.io/webCoderCamp25/Medio/WebInspection/
+**Link do website**: https://bernardolobo06.github.io/webCoderCamp25/CTF-d1
 
 **Link dos CTF's (Web)**: https://bernardolobo06.github.io/webCoderCamp25/
 

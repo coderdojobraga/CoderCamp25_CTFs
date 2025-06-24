@@ -3,7 +3,7 @@
 Os ninjas devem inspecionar um website à procura da Flag.
 A flag é um texto não selecionável (em parte) invisivel no body. 
 
-**Link do website**: https://bernardolobo06.github.io/webCoderCamp25/Medio/Invisivel-NoSelect/
+**Link do website**: https://bernardolobo06.github.io/webCoderCamp25/CTF-m1
 
 **Link dos CTF's (Web)**: https://bernardolobo06.github.io/webCoderCamp25/
 

@@ -6,7 +6,7 @@ Podem chegar à resposta:
     1. explorando o site até encontrarem o sinalizador de texto com o rato (inspecionar)
     2. abrindo o código-fonte do website (inspecionar)
 
-**Link do website**: https://bernardolobo06.github.io/webCoderCamp25/Facil/Invisivel-Select/
+**Link do website**: https://bernardolobo06.github.io/webCoderCamp25/CTF-f1
 
 **Link dos CTF's (Web)**: https://bernardolobo06.github.io/webCoderCamp25/
 
