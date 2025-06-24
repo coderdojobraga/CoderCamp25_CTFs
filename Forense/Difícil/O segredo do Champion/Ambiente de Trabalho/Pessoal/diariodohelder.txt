@@ -1,0 +1,439 @@
+--- 04/10/2022
+
+Hoje construí uma pista de corridas de berlindes no corredor. Usei caixas de cereais para fazer túneis e rampas. O meu berlinde azul ganhou todas. Chamei-lhe Turbo-Roxo porque tudo o que é roxo é mais rápido.
+
+---
+
+--- 15/10/2022
+
+A professora de ciências mostrou-nos como funciona o íman. Fiquei tão entusiasmado que quando cheguei a casa tentei colar colheres na porta do frigorífico. Resultado: a colher voou e partiu o copo da cozinha. Ups 😅
+
+---
+
+--- 22/10/2022
+
+Estivemos no dojo a falar sobre bits e bytes. Descobri que um bit pode ser 0 ou 1 e que 8 bits fazem um byte. Parece pouco mas afinal com isso já se fazem letras. Isso quer dizer que o meu nome é só um monte de números!
+
+---
+
+--- 30/10/2022
+
+A minha irmã escondeu o comando da TV e fiz um “scanner” pela casa com o meu detector feito de cartão (não funciona, mas parece que sim). Só o encontrei quando ela se fartou de rir e me disse que estava dentro da almofada. 🤦‍♂️
+
+---
+
+--- 05/11/2022
+
+No dojo deram-nos um desafio para criar um código secreto. Eu usei símbolos de emojis. O meu amigo descobriu logo, então agora vou tentar inventar um código com posições de letras. Acho que vou chamar-lhe o "Código Hélder".
+
+Comecei por escrever uma mensagem simples e depois substituí cada letra pela posição no alfabeto. Por exemplo, H é 8, E é 5... ficou algo tipo 8-5-12-4-5-18. Depois acrescentei um símbolo entre cada número para parecer mais secreto. Está a ficar giro!
+
+Mas depois pensei: e se alguém perceber isso muito rápido? Decidi então somar um número ao valor de cada letra. Por exemplo, +3. Assim H (8) passava a ser 11. Ficava tudo diferente. Até fiz uma tabela no meu caderno para me ajudar. Parece um enigma dos antigos!
+
+A seguir imaginei que podia usar um nome como chave. Se usar "mochoroxo", então cada letra da minha mensagem recebe um número somado com base nas letras do nome. Parece complicado mas acho que estou quase a inventar um código novo mesmo a sério!
+
+O sensei disse que os verdadeiros criptógrafos também fazem experiências assim. Fiquei super orgulhoso! Talvez o “Código Hélder” venha a ser usado nalgum desafio no futuro… mas se calhar preciso de arranjar um nome mais misterioso. 😄
+
+
+--- 12/11/2022
+
+Fiz o meu primeiro programa em Scratch que toca um som de pato sempre que clico no ecrã. Os meus pais ficaram doidos com tanto “quack-quack”. Vou melhorar para tocar música a sério… talvez.
+
+---
+
+--- 21/11/2022
+
+Estive a desenhar bandeiras fictícias de países que inventei. Um deles chama-se Códigóvia e só tem robôs. A bandeira tem um octógono com um olho no meio. O lema deles é: “Compilar e vencer”.
+
+---
+
+--- 01/12/2022
+
+Hoje o Sensei explicou que há mensagens que se escondem nos sites sem estarem visíveis. Eu disse “tipo magia?”. Ele riu-se e disse que sim, mas que a magia se chama HTML. Parece interessante.
+
+---
+
+--- 08/12/2022
+
+Recebi um puzzle com 1000 peças. Só consegui fazer as bordas. Depois fiquei a ver vídeos de como os computadores resolvem puzzles automaticamente. Um dia quero criar um que se resolve sozinho.
+
+---
+
+--- 11/12/2022
+
+Sonhei que o meu portátil ganhava vida e me pedia para parar de o usar tanto. Disse-me “Já não aguento mais mensagens secretas e linhas de código!”. Depois acordou-me com um som de erro. 😂
+
+---
+
+--- 18/12/2022
+
+Vi o meu pai usar algo chamado “Excel” e parecia programação! Ele disse que não era bem isso, mas eu consegui pôr uma célula a fazer contas. Será que consigo pôr o Excel a escrever histórias sozinho?
+
+---
+
+--- 24/12/2022
+
+Véspera de Natal! Queria oferecer uma página HTML ao meu primo, mas ele queria mesmo era um chocolate. Acho que não entendeu o valor de um bom CSS.
+
+---
+
+--- 27/12/2022
+
+Estava a ver imagens antigas no meu telemóvel e reparei que podia fazer um slideshow com HTML. Queria surpreender os meus amigos com isso. Talvez faça um sobre os nossos passeios ao parque.
+
+Comecei por escolher as melhores fotos — aquelas em que estamos todos a rir, a comer gelado, ou a fazer poses parvas. A parte mais difícil foi escolher uma música para o fundo. Pensei em pôr uma música que usamos num vídeo antigo, mas depois lembrei-me que com HTML puro não é assim tão simples.
+
+Fui ao computador e comecei a escrever o código. `<img>`, `<div>`, um pouco de JavaScript para alternar as imagens. O sensei tinha-nos mostrado isso uma vez no dojo. Aos poucos, o slideshow começou a ganhar forma. Cada imagem passava automaticamente, e parecia mesmo um vídeo!
+
+Depois pensei: e se escondesse uma mensagem secreta numa das imagens? Ou talvez num comentário no código? Seria giro se, ao inspecionar, alguém encontrasse uma pista para um desafio. Até pensei em fazer com que uma imagem só aparecesse se clicasses num canto específico da tela.
+
+Passei mais de duas horas a ajustar o tamanho das imagens e a fazer com que funcionasse bem no telemóvel. No final, fiquei mesmo orgulhoso. Enviei para os meus amigos e todos gostaram! Alguns até pediram para eu lhes ensinar como fazer o mesmo.
+
+Este slideshow pode ser só um começo. Talvez um dia consiga fazer uma galeria interativa, ou uma apresentação com efeitos malucos. Gosto da ideia de transformar memórias em algo vivo, com código.
+
+
+--- 31/12/2022
+
+Último dia do ano! Fiz um contador regressivo com HTML e JS (copiei de um site mas mudei as cores para roxo, claro). Quando chegou a zero, tocou o som de vitória do Mario. Foi ÉPICO!
+
+---
+
+--- 01/01/2023
+
+Ano novo! Decidi que vou começar a registar todas as minhas ideias num ficheiro de texto. Este é o meu primeiro diário digital. Vai ser top! 📒✨
+
+---
+
+--- 02/01/2023
+
+Tentei fazer um logótipo animado com o meu nome. Acabei por criar um Hélder que gira sem parar. Agora quero fazer uma versão que só gira quando se clica. Como será que se faz isso em JS?
+
+---
+
+
+--- 03/01/2023
+
+Primeiro dia do ano e o meu primo veio cá a casa. Jogámos aquele jogo de carros que tem nitro e colisões. Depois tentámos construir uma pista com legos, mas o meu gato passou por cima e destruiu tudo.
+
+Ainda bem que o meu portátil sobreviveu. Tive de o esconder debaixo da cama.
+
+---
+
+--- 12/01/2023
+
+Hoje tive uma ideia de criar um robô que me acorda com panquecas. Acordar seria muito mais fácil! Ainda tenho de aprender como programar motores… 🤖🥞
+
+---
+
+--- 21/01/2023
+
+Ontem tive um sonho estranho. Estava numa cidade feita só de código e os carros andavam com comandos. Tinha de fazer "forward();" para atravessar a estrada. Devia fazer um jogo assim. Escrevi isso num caderno para não me esquecer.
+
+---
+
+--- 18/02/2023
+
+Vi um vídeo de alguém a fazer hacking com comandos no ecrã preto. Era como nos filmes! Descobri que isso se chama "terminal". Quero aprender a usar isso um dia. Por enquanto fico-me pelo Scratch e o CoderDojo.
+
+---
+
+--- 25/03/2023
+
+Hoje fui para a universidade com o meu hoodie favorito para a universidade. Gosto muito dele porque é da minha cor favorita o roxo. É uma cor muito fixe. O dia foi bom só por causa disto! Agora vou dormir.
+
+---
+
+--- 29/03/2023
+
+Estava a brincar com o Paint e sem querer desenhei um dragão que parecia o da série. Acho que vou guardar. Podia ser um logótipo do meu futuro jogo!
+
+---
+
+--- 12/04/2023
+
+Experimentei um jogo novo de puzzles com códigos. Era difícil, mas fixe. Tinha umas palavras todas trocadas... usei um site online que decifrava tudo com base em letras. Chama-se cifra de César.
+
+---
+
+--- 17/04/2023
+
+Fui ao parque com os meus amigos. Levámos um tablet e jogámos jogos de lógica. Depois de lanchar bolachas com chocolate, tentámos desenhar um circuito elétrico com paus e folhas. Não funcionou, mas foi engraçado.
+
+---
+
+--- 5/05/2023
+
+O Sensei do dojo disse que há mensagens escondidas em ficheiros. Chamam isso de "dados ocultos". Eu pensei: "uau, como se fossem pistas secretas!". Quero experimentar isso um dia.
+
+---
+
+--- 20/05/2023
+
+Fiz um poster para o dojo com um polvo a segurar computadores com os tentáculos. Um colega disse que parecia o "OctoNet". Fiquei orgulhoso 😄
+
+---
+
+--- 3/06/2023
+
+Hoje foi um dia como os outros. Tomei o pequeno-almoço, fui à escola, estive nas aulas e fiz os TPC. Não há muito a dizer. 
+Ontem vi um episódio novo daquela série sobre dragões e castelos. Fascinante como constroem mundos assim. 
+
+Estava a pensar sobre como seria divertido ter o meu próprio blog. Um lugar para partilhar coisas que gosto e os meus desafios favoritos do CoderDojo.
+Chamei-lhe a Página Pessoal do Champion Hélder porque gosto de ser campeão em tudo o que faço! 😎
+
+Gostei muito de como o site mostra “Bem vindo, helderg04” quando entro! Parece que está a falar comigo. Esse é o meu username e gosto de o ver ali.
+
+Também criei uma palavra passe secreta mas não a posso escrever aqui. Imagina que alguém encontra e lê o meu diário virtual. 😅
+
+---
+
+--- 6/06/2023
+
+Foi um dia normal mas hoje aprendi a esconder mensagens dentro de imagens. Chamam a isso esteganografia. Imaginem que alguém consegue encontrar uma mensagem escondida numa imagem só com um site online!
+
+Agora estou cansado. Até amanhã, diário.
+
+---
+
+--- 7/06/2023
+
+Hoje tive de organizar o meu quarto. Encontrei um caderno antigo com ideias de histórias. Uma delas falava de um coelho que programava bombas de chocolate com botões secretos. Será que era influência de demasiadas séries? 😄
+
+---
+
+--- 15/06/2023
+
+Estive a brincar com ficheiros e encontrei um que era só letras estranhas, como "TWFudGVnbyBkbyBzeXN0ZW1h"… achei engraçado. Pesquisei e descobri que é algo chamado Base64. Parece que é usado para esconder mensagens! 😯
+
+Sempre que vejo coisas assim cheias de letras e números misturados, começo a desconfiar… será que é Base64?
+
+---
+
+--- 17/06/2023
+
+Hoje tentei escrever um poema no teclado sem olhar. Correu tão mal que o poema acabou a dizer "aewrjgasoeurtg" no fim. A minha irmã riu-se durante 5 minutos.
+
+---
+
+--- 22/06/2023
+
+Consegui criar o meu primeiro ficheiro `.secretas` com mensagens secretas dentro! Parecia ilegível, mas depois descobri como decifrar. Usei um site chamado CyberChef e funcionou mesmo! 🔥
+
+---
+
+--- 30/06/2023
+
+Vi um vídeo onde mostravam que até num simples ficheiro `.txt` pode estar uma flag escondida. Tipo como nos desafios CTF. O sensei disse que o importante é saber procurar, e às vezes usar CTRL+F. Muito útil!
+
+---
+
+--- 02/07/2023
+
+Hoje tentei construir um servidor de Minecraft. Correu bem até ao momento em que me esqueci da password. Tentei "123", depois "admin", depois "mochoroxo"... espera...
+
+---
+
+--- 04/07/2023
+
+Experimentei pôr a minha flag escondida no meio de mil linhas. Só um verdadeiro ninja vai conseguir encontrá-la. 😏
+
+---
+
+--- 08/07/2023
+
+Hoje passei a tarde toda a tentar pôr um emoji animado na minha página. Consegui pôr um gato a dançar, mas ele girava 100 vezes por segundo e parecia que ia explodir. Removi-o. Fiquei com dores de cabeça.
+
+No início parecia fácil. Encontrei um GIF engraçado na internet e pensei: “É só meter no site e já está!”. Mas depois tentei fazer o emoji girar com CSS, e comecei a brincar com `transform: rotate()` e `animation`. A certa altura o gato estava a girar tão depressa que parecia uma hélice!
+
+Tentei abrandar a animação com `animation-duration`, mas nada resultava. Cada vez que atualizava o site, o gato parecia que ia arrancar voo. Foi engraçado durante uns minutos... até me começar a doer os olhos.
+
+Fui ver vídeos de como fazer animações suaves. Um deles usava `@keyframes` e ensinava a fazer um balançar em vez de uma rotação louca. Adaptei isso ao meu gato, mas depois ele parecia que estava num barco a balançar nas ondas.
+
+Mesmo assim, aprendi imenso hoje. Percebi que animações precisam de cuidado, senão podem parecer um videojogo avariado. Amanhã talvez tente fazer um emoji que pisca os olhos ou que sobe e desce devagarinho. Algo mais calmo... para a minha cabeça também descansar.
+
+
+--- 10/07/2023
+
+Estava a pensar: e se alguém tentar entrar na minha página pessoal? Espero que não descubram a palavra-passe… mas também, só quem sabe de coisas como "mochoroxo" é que vai perceber. Hahaha… ups, quase que me deixei levar!
+
+---
+
+--- 15/07/2023
+
+Tentei ensinar o meu cão a reconhecer QR codes. Ele só os lambe. Mas é muito fofo.
+
+---
+
+--- 17/07/2023
+
+Apaguei por engano a imagem do cabeçalho do site. Agora parece um blog de um pirata digital. Na verdade… não está nada mal. Talvez mantenha assim.
+
+---
+
+--- 20/07/2023
+
+A minha mãe disse para ir dormir cedo, mas estive às escondidas a tentar descobrir como pôr música de fundo no meu site. Consegui! Agora toca lo-fi enquanto escrevo.
+
+---
+
+--- 21/07/2023
+
+Hoje tentei ensinar o meu avô a usar o telemóvel novo. Ele dizia que “o dedo dele não é compatível com ecrãs tácteis”. Acabámos os dois a jogar aquele jogo da cobra! Ele é melhor que eu… 😅
+
+---
+
+--- 24/07/2023
+
+Li sobre um sistema de números que só usa 0 e 1 — binário! Depois usei um site para converter a palavra "Hélder" em binário e guardei o resultado. Talvez use isso nalgum desafio mais tarde.
+
+---
+
+--- 27/07/2023
+
+O sensei falou de uma coisa chamada Base64. É tipo uma maneira de esconder texto em letras estranhas. Agora sempre que vejo coisas como “c29ja3M=” fico com vontade de ver o que lá está dentro!
+
+---
+
+--- 01/08/2023
+
+Fizemos um mini CTF no dojo. Eu fui o único a perceber que uma imagem tinha texto escondido. Usei um site e vi a mensagem: “Boa, ninja!”. Senti-me um verdadeiro hacker!
+
+No início, pensei que fosse apenas mais um exercício como os outros, mas o sensei disse que havia pistas escondidas em vários ficheiros. Havia documentos, imagens, e até um ficheiro que parecia estar vazio. Foi aí que me comecei a concentrar na imagem com o nome “surpresa.png”. Achei o nome suspeito.
+
+Abri a imagem e não vi nada estranho. Mas lembrei-me de uma coisa que tinha escrito no meu diário há uns tempos: esteganografia! Fui a um site que o sensei recomendou uma vez e fiz upload da imagem. A minha respiração parou por um segundo quando apareceu a mensagem escondida. Estava mesmo lá!
+
+A mensagem dizia “Boa, ninja!”, e eu quase dei um pulo da cadeira. Mostrei ao sensei e ele deu-me um high five. Disse que era esse tipo de atenção aos detalhes que fazia a diferença. Os meus amigos ficaram todos impressionados, e um até me chamou de “Hélder Hacker”.
+
+Depois disso, comecei a pensar em criar o meu próprio desafio para os outros. Talvez esconder texto em áudio... ou usar Base64, como aprendemos há pouco tempo. Estou cheio de ideias! Mas por agora, vou só saborear a vitória. Missão cumprida, ninja. 🥷💻
+
+
+--- 05/08/2023
+
+Passei o dia a tentar fazer um mini-jogo em HTML. O botão saltava de um lado para o outro e só dizia “Tenta outra vez!”. Amanhã tento fazer com que ele diga “Parabéns” se clicarem certo.
+
+---
+
+--- 10/08/2023
+
+Escrevi uma história sobre um super-espião digital chamado ByteMan. Ele consegue ler mensagens escondidas em QR codes, imagens e até sons! Talvez um dia faça um jogo com ele como personagem.
+
+---
+
+--- 14/08/2023
+
+Hoje aprendi que há pessoas que escondem mensagens em ficheiros de som. Chamam-lhe “esteganografia em áudio”. Queria testar, mas o meu microfone grava com muito eco. Talvez com auscultadores funcione melhor?
+
+---
+
+--- 18/08/2023
+
+Fui à feira com os meus primos. Um vendedor tinha uma t-shirt com símbolos esquisitos. Tirei uma foto e tentei descodificar quando cheguei a casa. Não era código, mas fiquei entusiasmado!
+
+---
+
+--- 25/08/2023
+
+Desenhei um robô que fala frases aleatórias e as escreve num papel imaginário. O meu primo disse que parecia assustador. Dei-lhe olhos grandes e agora parece mais simpático.
+
+---
+
+--- 30/08/2023
+
+Hoje aprendi que nem todos os ficheiros de texto são iguais. Há ficheiros que têm dados codificados e parecem só um monte de letras confusas. Como os ficheiros `.b64` — são estranhos à primeira vista!
+
+---
+
+--- 04/09/2023
+
+Voltei às aulas. A professora de TIC perguntou quem sabia o que era HTML e só eu levantei o braço. Foi um momento épico. Até perguntei se podia fazer o site do jornal da turma.
+
+---
+
+--- 08/09/2023
+
+Estive a brincar com um gerador de palavras-passe. Um dos resultados foi “MochoRoxo97!”. Achei que soava bem. Será que é demasiado fácil de adivinhar? Talvez devesse usar só para testes...
+
+---
+
+--- 14/09/2023
+
+Descobri que posso criar um ficheiro `.b64` a partir de qualquer coisa — até uma imagem! E depois, qualquer pessoa curiosa pode tentar descodificar. Sinto que estou a descobrir pequenos segredos do mundo digital.
+
+---
+
+--- 20/09/2023
+
+Montei o meu primeiro servidor local com ajuda do sensei. Só eu posso aceder porque está no meu portátil, mas abri o navegador e vi a minha página. “Bem-vindo ao mundo, site!”. 😄
+
+---
+
+--- 25/09/2023
+
+Estava a organizar pastas e encontrei um ficheiro com um nome estranho: `YXJhY2p1a2xh.txt`. Coloquei-o num descodificador Base64 e lá estava: “aracjukla.txt”. Ainda não sei o que quer dizer. Mistério!
+
+---
+
+--- 30/09/2023
+
+Hoje criei um ficheiro com uma história totalmente inventada e depois converti-o para Base64. Parecia lixo… mas era a minha história, escondida! É como uma versão digital do diário secreto.
+
+---
+
+--- 03/10/2023
+
+O Sensei desafiou-nos a esconder uma flag num ficheiro. Eu escondi a frase “CD25{estas a tornar-te num bom hacker}” no meio de muitos outros textos codificados. Vamos ver se alguém a encontra!
+
+---
+
+--- 08/10/2023
+
+O dojo ficou mais silencioso hoje porque estávamos todos a tentar resolver desafios de ficheiros. Alguém disse: “Isto parece só letras aleatórias”, e o Sensei respondeu: “Ou será que é mais do que isso?”
+
+---
+
+--- 14/10/2023
+
+Sonhei que estava preso num jogo onde só podia sair se resolvesse um código em Base64. Quando acordei, fui logo ver se sabia converter uma frase de volta. Ufa, ainda sei!
+
+---
+
+--- 18/10/2023
+
+Tenho pensado em fazer um desafio com ficheiros `.b64` onde a mensagem só aparece se juntares várias partes. Tipo um puzzle de códigos. Seria divertido ver os outros a tentarem juntar tudo.
+
+---
+
+--- 23/10/2023
+
+Hoje descobri que algumas páginas HTML podem esconder texto que só aparece no "inspecionar elemento". Mas isso é batota nos desafios! Eu prefiro esconder as coisas bem — dentro de ficheiros ou codificações verdadeiras.
+
+Estava a navegar por alguns sites quando vi um tutorial que mostrava como colocar mensagens ocultas nos comentários do código. Achei interessante, mas logo pensei: “Isso é demasiado fácil de encontrar. Qualquer pessoa com um clique vê isso!”.
+
+O sensei sempre diz que um bom desafio deve fazer-nos pensar, usar conhecimentos e ferramentas, e não só procurar no código da página. Por isso, prefiro criar desafios que envolvem encriptação, codificação ou até steganografia — esconder texto em imagens ou sons.
+
+Também estive a brincar com Base64 hoje. Aprendi que é um jeito simples de esconder mensagens e que podemos usar sites para codificar e decodificar texto. Acho que vou usar isso para os meus próximos desafios no dojo.
+
+Ah, e descobri que às vezes as coisas mais simples são as melhores. Não é preciso ser complicado para ser divertido e desafiante. Amanhã quero tentar esconder mensagens dentro de ficheiros de texto que parecem normais, mas que guardam segredos.
+
+Estou a adorar este mundo de mistérios digitais. Mal posso esperar para aprender mais!
+
+
+--- 27/10/2023
+
+Tentei esconder uma mensagem usando letras de música... ficou difícil de seguir. Talvez se usasse as iniciais de cada verso funcionasse melhor. Como será que os criptógrafos fazem isto a sério?
+
+--- 02/11/2023
+
+Criei um site onde cada clique muda o conteúdo de um parágrafo. Quero usá-lo para um desafio secreto onde a mensagem aparece só no terceiro clique. Shhh 🤫
+
+Passei a manhã toda a brincar com JavaScript e HTML para que, ao carregar num botão, o texto mudasse devagarinho. No primeiro clique, aparece uma pista; no segundo, uma frase enigmática; e só no terceiro clique é que a mensagem secreta finalmente surge.
+
+Acho que assim o desafio vai ser mais divertido, porque quem estiver a tentar descobrir a mensagem tem que perceber que precisa de clicar mais do que uma vez. Não vai ser só olhar e encontrar, tem que pensar um pouco!
+
+Mostrei ao sensei e ele disse que este tipo de truques ajuda mesmo a desenvolver o raciocínio lógico. Também me lembrei que podia esconder a flag num destes textos que aparecem, só para os verdadeiros ninjas encontrarem.
+
+Fiquei super entusiasmado com esta ideia e já quero experimentar outras formas de esconder mensagens nas minhas páginas. Talvez usar sons, imagens ou até códigos binários. É como brincar a ser detetive digital!
+
+Agora só falta fazer com que os meus amigos testem o site e vejam se conseguem descobrir o segredo. Mal posso esperar para ver as reações!
+
+---
