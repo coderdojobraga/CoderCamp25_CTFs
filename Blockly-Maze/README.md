@@ -13,34 +13,34 @@ A flag deste CTF só é obtida após completar o nível 10.
 ## Soluções
 
 ### Nível 1
-![solucao do nivel 1](./img/level1)
+![solucao do nivel 1](./img/level1.png)
 
 ### Nível 2
-![solucao do nivel 2](./img/level2)
+![solucao do nivel 2](./img/level2.png)
 
 ### Nível 3
-![solucao do nivel 3](./img/level3)
+![solucao do nivel 3](./img/level3.png)
 
 ### Nível 4
-![solucao do nivel 4](./img/level4)
+![solucao do nivel 4](./img/level4.png)
 
 ### Nível 5
-![solucao do nivel 5](./img/level5)
+![solucao do nivel 5](./img/level5.png)
 
 ### Nível 6
-![solucao do nivel 6](./img/level6)
+![solucao do nivel 6](./img/level6.png)
 
 ### Nível 7
-![solucao do nivel 7](./img/level7)
+![solucao do nivel 7](./img/level7.png)
 
 ### Nível 8
-![solucao do nivel 8](./img/level8)
+![solucao do nivel 8](./img/level8.png)
 
 ### Nível 9
-![solucao do nivel 9](./img/level9)
+![solucao do nivel 9](./img/level9.png)
 
 ### Nível 10
-![solucao do nivel 10](./img/level10)
+![solucao do nivel 10](./img/level10.png)
 
 ## Licenças
 [Original LICENSE](https://github.com/google/blockly/blob/develop/LICENSE)
