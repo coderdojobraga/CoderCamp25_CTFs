@@ -15,3 +15,5 @@ Para saber onde está o texto que temos de decodificar, é preciso ler o website
 Ir à pasta Coisas Antigas/2023 e descobrir o ficheiro virus.vir. Neste ficheiro temos a flag codificada em Base64. Fazer decode e obter a flag em plaintext.
 
 **Site:** https://diog0martins.github.io/segredodochampion/
+
+**Solução:** CD25{estas a tornar-te num bom hacker}
