@@ -82,7 +82,7 @@
       const u = document.getElementById("username").value.trim();
       const p = document.getElementById("password").value.trim();
 
-      const senhaCifrada = "a2l0a2F0"; // "kitkat"
+      const senhaCifrada = "a2l0a2F0";
 
       if (u.toLowerCase() === "admin" && p === base64decode(senhaCifrada)) {
         window.location.href = "inbox.html";
