@@ -8,4 +8,4 @@ Solução: Encontrar o website secreto (em comentário no código fonte) com a f
 
 Flag: CD25{mestredolabirinto}
 
-NOTA!!! - verificar disponibilidade do servidor do cesium e da possibilidade de fazer em ctfd no github.
+NOTA!!! - verificar disponibilidade do servidor do cesium e da possibilidade de fazer em ctfd no github. 
