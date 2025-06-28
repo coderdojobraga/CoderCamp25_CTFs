@@ -1,5 +1,4 @@
 import sys
-import random
 
 class Seg():
     def __init__(self, numero_secreto):
@@ -15,12 +14,15 @@ class Seg():
         return abs(N - self.numero_secreto)
 
 def testa(func):
-    numero_secreto = random.randint(-5000, 5000)
-    segredo = Seg(numero_secreto)
+    testes = [2, 23, -4, -37, 67183, 739, -2931, -192]
+    valid  = 0
 
-    x = func(segredo)
+    for numero_secreto in testes:
+        segredo = Seg(numero_secreto)
+        x = func(segredo)
+        if x == numero_secreto: valid += 1
 
-    if x == numero_secreto:
+    if valid == 8:
         print("Acertaste!\nA Flag é CD25{descobriste-o-numero-secreto}")
     else:
         print("Falhaste!")
