@@ -6,7 +6,7 @@ Sugere-se usar o módulo 'requests' para verificar se as diretorias existem (cod
 
 Nota: Para este desafio é necessário explicar o que é um pedido, uma resposta e que códigos é que podem vir nas respostas.
 
-**Link do website**: http://www.marcoslobo.xyz:5000
+**Link do website**: https://www.marcoslobo.xyz/rotas
 
 **Link dos CTF's (Web)**: https://bernardolobo06.github.io/webCoderCamp25/
 

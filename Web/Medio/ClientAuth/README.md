@@ -3,7 +3,7 @@
 Os ninjas devem encontrar as credenciais de acesso para se autenticarem e encontrarem a flag.
 A autenticação é feita pelo cliente (no frontend).
 
-**Link do website**: http://www.marcoslobo.xyz:8000
+**Link do website**: https://www.marcoslobo.xyz/login
 
 **Link dos CTF's (Web)**: https://bernardolobo06.github.io/webCoderCamp25/
 
