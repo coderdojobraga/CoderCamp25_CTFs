@@ -6,7 +6,7 @@ Se conseguires corrigir o programa, este retorna uma flag.
 
 ## Solução
 
-Alterar as palavra "parede" por "caminho".
+Alterar as palavra "parede" por "caminho" e corrigir a verificação do **if**.
 
 ## Flag
 CD25{labirintos-e-paredes}

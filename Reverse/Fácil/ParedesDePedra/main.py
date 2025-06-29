@@ -11,5 +11,5 @@ for passo in labirinto:
         print("Bateu numa parede! Tente de novo.")
         exit()
 
-if contador == 6:
+if contador == 5:
     codec.desencriptar("56$'m^ST[d[`fae}W}bSdWVWeo")
