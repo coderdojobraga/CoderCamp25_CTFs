@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <title>CTF Cookie Challenge</title>
+  <style>
+    body {
+      background: #111;
+      color: #0f0;
+      font-family: monospace, monospace;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      padding: 20px;
+      user-select: none;
+    }
+    .flag {
+      margin-top: 20px;
+      padding: 10px 20px;
+      border: 2px dashed #0f0;
+      border-radius: 8px;
+      display: none;
+      font-weight: bold;
+      font-size: 1.3rem;
+      background: #000;
+      box-shadow: 0 0 10px #0f0 inset;
+      white-space: nowrap;
+    }
+  </style>
+</head>
+<body>
+  <h1>Inspeciona bem esta página...</h1>
+
+  <div class="flag" id="flag"></div>
+
+  <script>
+    const flagBase64 = "Q0QyNXtkZXZvcmFkb3JEZUNvb2tpZXN9";
+
+    function decodeBase64(str) {
+      try {
+        return atob(str);
+      } catch(e) {
+        return "Erro ao decodificar flag";
+      }
+    }
+
+    function getCookie(name) {
+      const cookies = document.cookie.split('; ');
+      for (let c of cookies) {
+        if (c.startsWith(name + '=')) {
+          return c.substring(name.length + 1);
+        }
+      }
+      return null;
+    }
+
+    function setCookie(name, value, days) {
+      let expires = "";
+      if (days) {
+        const date = new Date();
+        date.setTime(date.getTime() + (days*24*60*60*1000));
+        expires = "; expires=" + date.toUTCString();
+      }
+      document.cookie = name + "=" + value + expires + "; path=/";
+    }
+
+    function checkFlag() {
+      const val = getCookie('mostrarFlag');
+      const flagEl = document.getElementById('flag');
+      if (val === '1') {
+        flagEl.textContent = decodeBase64(flagBase64);
+        flagEl.style.display = 'block';
+      } else {
+        flagEl.textContent = '';
+        flagEl.style.display = 'none';
+      }
+    }
+
+    if (getCookie('mostrarFlag') === null) {
+      setCookie('mostrarFlag', '0', 1);
+      setTimeout(checkFlag, 0);
+    } else {
+      checkFlag();
+    }
+
+    let lastVal = getCookie('mostrarFlag');
+    setInterval(() => {
+      let currentVal = getCookie('mostrarFlag');
+      if (currentVal !== lastVal) {
+        lastVal = currentVal;
+        checkFlag();
+      }
+    }, 1000);
+  </script>
+</body>
+</html>
