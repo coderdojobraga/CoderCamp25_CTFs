@@ -10,7 +10,7 @@ def verificar_subdiretorias(arquivo):
             resposta = requests.get(url)
 
             if resposta.status_code == 200:
-                print(f"A subdiretoria '/{subdiretoria}'.html existe.")
+                print(f"A subdiretoria '/{subdiretoria}.html' existe.")
                 
 if __name__ == "__main__":
     arquivo_subdiretorias = "/home/bernas/CoderCamp25_CTFs/Web/Dificil/WebScrapper/subdiretorias.txt"
