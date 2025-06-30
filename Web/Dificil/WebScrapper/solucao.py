@@ -6,12 +6,12 @@ def verificar_subdiretorias(arquivo):
         subdiretorias = [subdiretoria.strip() for subdiretoria in subdiretorias]
 
         for subdiretoria in subdiretorias:
-            url = f'http://www.marcoslobo.xyz:5000/{subdiretoria}'
+            url = f'http://www.marcoslobo.xyz/rotas/{subdiretoria}.html'
             resposta = requests.get(url)
 
             if resposta.status_code == 200:
-                print(f"A subdiretoria '/{subdiretoria}' existe.")
+                print(f"A subdiretoria '/{subdiretoria}'.html existe.")
                 
 if __name__ == "__main__":
-    arquivo_subdiretorias = "/mnt/c/Users/marco/Desktop/webCoderCamp25/Dificil/WebScrapper/subdiretorias.txt"
+    arquivo_subdiretorias = "/home/bernas/CoderCamp25_CTFs/Web/Dificil/WebScrapper/subdiretorias.txt"
     verificar_subdiretorias(arquivo_subdiretorias)
