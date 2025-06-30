@@ -6,7 +6,7 @@ def verificar_subdiretorias(arquivo):
         subdiretorias = [subdiretoria.strip() for subdiretoria in subdiretorias]
 
         for subdiretoria in subdiretorias:
-            url = f'http://www.marcoslobo.xyz/rotas/{subdiretoria}.html'
+            url = f'https://www.marcoslobo.xyz/rotas/{subdiretoria}.html'
             resposta = requests.get(url)
 
             if resposta.status_code == 200:
