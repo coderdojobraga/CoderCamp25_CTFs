@@ -139,7 +139,7 @@ Vi um vídeo de alguém a fazer hacking com comandos no ecrã preto. Era como no
 
 --- 25/03/2023
 
-Hoje fui para a universidade com o meu hoodie favorito para a universidade. Gosto muito dele porque é da minha cor favorita o roxo. É uma cor muito fixe. O dia foi bom só por causa disto! Agora vou dormir.
+Hoje fui para a universidade com o meu hoodie favorito. Gosto muito dele porque é da minha cor favorita! O dia foi bom só por causa disto! Tirei uma foto incrível com este hoodie e guardei no meu computador! Agora vou dormir.
 
 ---
 
@@ -381,7 +381,7 @@ Hoje criei um ficheiro com uma história totalmente inventada e depois converti-
 
 --- 03/10/2023
 
-O Sensei desafiou-nos a esconder uma flag num ficheiro. Eu escondi a frase “CD25{estas a tornar-te num bom hacker}” no meio de muitos outros textos codificados. Vamos ver se alguém a encontra!
+O Sensei desafiou-nos a esconder uma flag num ficheiro. Vamos ver se alguém a encontra!
 
 ---
 
